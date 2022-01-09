@@ -3,7 +3,7 @@
 ## Create time : 2022. 01. 09
 
 ## Introduction
-This repository contains the source code for developing a deep learning-based semantic segmentation model with canine chest x-ray. We used [improved attention u-net by Nabsabraham et al.](https://github.com/nabsabraham/focal-tversky-unet) Model was implemented with Keras API.
+This repository contains the source code for developing a deep learning-based semantic segmentation model with canine chest x-ray. We used [improved attention u-net](https://github.com/nabsabraham/focal-tversky-unet) Model was implemented with Keras API.
 
 ## Installation 
 - pip install -r requirements.txt 
